@@ -14,5 +14,5 @@ for (let id in users) {
 
 console.log(users);
 
-let gg = receipt()
-console.log(gg)
+let receipt = receipt()
+console.log(receipt)
