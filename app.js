@@ -13,3 +13,6 @@ for (let id in users) {
 }
 
 console.log(users);
+
+let gg = receipt()
+console.log(gg)
