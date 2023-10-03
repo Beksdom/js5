@@ -11,8 +11,3 @@ for (let id in users) {
     console.log("Имя - " + users[id]["Имя"]);
     console.log("Возраст - " + users[id]["Возраст"]);
 }
-
-console.log(users);
-
-let receipt = receipt()
-console.log(receipt)
